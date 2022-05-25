@@ -1,0 +1,60 @@
+#cabeça {
+    padding-left: 10px;
+    
+
+}
+
+#nome {
+    position: fixed;
+    font-size: 30px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+
+.logo {
+    position: fixed;
+    top: 5px;
+    left: 10px;
+}
+
+.nome {
+    position: fixed;
+    left: 10%;
+}
+
+#faixa {
+    font-size: 30px;
+    position: fixed;
+    left: 30%;
+    top: 35px;
+}
+
+#faixa ul li {
+    display: inline-block;
+    padding-right: 5cm;
+}
+
+#pé {
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    text-align: left;
+}
+
+
+
+
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: blue;
+}
+

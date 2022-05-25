@@ -1,0 +1,38 @@
+body {
+    background-image: url("fotos/maxresdefault.jpg");
+}
+footer {
+    background-color: rgb(0, 29, 19);
+}
+
+#title, .subtitle, .post_title {
+    color: rgb(255, 255, 255);
+    background-image: url("fotos/maxresdefault.jpg");
+
+}
+
+.subtitle {
+    font-style: oblique;
+    background-image: url("fotos/maxresdefault.jpg");
+
+}
+.post_title {
+font-size: 16px;
+font-style: oblique;
+background-image: url("fotos/maxresdefault.jpg");
+
+}
+
+.post {
+    background: #fff;
+    border: 16px solid #000;
+    padding: 10px;
+    margin: 10px;
+
+}
+.email {
+    color: aliceblue;
+}
+.li {
+    color: aliceblue;
+}
