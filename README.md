@@ -11,7 +11,7 @@
 
 # 🧑‍🚀 :shipit: 🚀
 
-# importante visar que colocarei tudo o que achar interessante aqui.
+# importante visar que colocarei tudo o que achar interessante aqui.  tudo mesmo
 ~~~javascript
 nome = 'shrek';
 ~~~
