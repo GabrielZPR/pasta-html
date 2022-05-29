@@ -1,4 +1,4 @@
-# estudos. 
+# pasta-html
 
 ## Repositório criado para estudo
 
